@@ -1,6 +1,6 @@
 # mylib
 
-🌱A summary document for papers which I have read and courses which I studied:
+🌱A repo for reviewing what I have studied:
 
 ## Papers
 1. [Communicating Sequential Processes](https://github.com/luqinwen/CSP)
